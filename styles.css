@@ -1,1 +1,81 @@
 /* Write your CSS here! */
+body{
+    background-color:antiquewhite;
+    margin: 8px;
+    display: block;
+}
+
+
+#header {
+    text-align: center;
+    color:black
+}
+
+.subhead {
+    text-align: center;
+    color: black
+}
+
+#hawaii {
+    height: auto;
+    width: 100%;
+    background-size: 150px;
+}
+
+/* #paris {
+    position: relative;
+    width: 250px;
+    height: auto;
+} */
+
+#Eiffel {
+    width: 100%;
+    height: auto;
+    background-size: 150px;
+    width: 400px;
+  height: 400px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#rome{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+#caption {
+    text-align: center;
+}
+
+#china {
+    width: 100%;
+    height: auto;
+    background-size: 150px;
+    width: 500px;
+  height: 500px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#mahki {
+    text-align: center;
+}
+
+#africa {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#mainHeading{
+    color: red;
+    text-align: center;
+}
+
+.funParagraph {
+    color: green;
+}
